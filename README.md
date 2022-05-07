@@ -1,4 +1,4 @@
-### Hello world 👋
+### 👋 Hello world
 
 - 🌱 I’m currently learning Android Development with Kotlin and Cybersecurity and every now and then robotics
 - 📚 I want to learn more about Android Development, Python, Cybersecurity, robotics, Linux, C/C++, Game Development and Ruby
